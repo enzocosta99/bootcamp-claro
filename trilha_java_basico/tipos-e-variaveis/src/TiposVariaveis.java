@@ -1,4 +1,5 @@
 public class TiposVariaveis {
+    @SuppressWarnings("unused")
     public static void main(String[] args) throws Exception {
         
         double salarioMinimo = 2.500; // Mesma coisa que 2,5 ou 2.5, e não 2500
