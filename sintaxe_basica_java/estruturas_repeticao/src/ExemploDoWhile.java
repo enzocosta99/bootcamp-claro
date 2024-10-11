@@ -18,9 +18,7 @@ public class ExemploDoWhile {
 
     private static boolean tocando() {
         
-        boolean atendeu = new Random().nextInt(5) != 1;
-
-        return atendeu;
+        return new Random().nextInt(3) != 1;
 
     }
 
